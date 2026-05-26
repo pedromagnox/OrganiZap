@@ -1,0 +1,87 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "5bc03d7e-b2c4-4041-9c3a-c077db68136e",
+        "name": "REST API",
+        "designId": "0e49b376-70bf-4921-b852-76d0df281265",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "3a407b45-9c63-471d-b09b-15cf797e5566": {
+        "id": "57b0ae86-a5e1-4697-98e1-b427014cec51",
+        "name": "Sound",
+        "designId": "0e49b376-70bf-4921-b852-76d0df281265",
+        "pluginId": "3a407b45-9c63-471d-b09b-15cf797e5566",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "1686357c-7219-4478-8903-061c62efbfcf",
+        "name": "Date",
+        "designId": "0e49b376-70bf-4921-b852-76d0df281265",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "fbf0feec-356b-461b-8738-3b1f44edaf02": {
+        "id": "e8340746-7e23-4ee1-8d8f-446f8ba62b05",
+        "name": "Google GTM",
+        "designId": "0e49b376-70bf-4921-b852-76d0df281265",
+        "pluginId": "fbf0feec-356b-461b-8738-3b1f44edaf02",
+        "publicData": {
+            "containerIdProd": "GTM-WJ3M89BH"
+        }
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "d83a554d-854c-44a9-811e-075633ad2e4c",
+        "name": "Charts",
+        "designId": "0e49b376-70bf-4921-b852-76d0df281265",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "fe83777d-d6e3-48bf-bedc-642dd7ac46e3",
+        "name": "Supabase Auth",
+        "designId": "0e49b376-70bf-4921-b852-76d0df281265",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyZnZlaGJtZHdsdWJlaGxibW5tIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY1NTQ4OTcsImV4cCI6MjAzMjEzMDg5N30.BG-5-szSdxAUYBSx1oyCchxz6hRmmcQqsWuo9hCXI98",
+            "roleTable": "roles",
+            "projectUrl": "https://srfvehbmdwlubehlbmnm.supabase.co",
+            "customDomain": "",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyZnZlaGJtZHdsdWJlaGxibW5tIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY1NTQ4OTcsImV4cCI6MjAzMjEzMDg5N30.BG-5-szSdxAUYBSx1oyCchxz6hRmmcQqsWuo9hCXI98",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://srfvehbmdwlubehlbmnm.supabase.co",
+                    "customDomain": "",
+                    "baseProjectRef": "srfvehbmdwlubehlbmnm"
+                }
+            },
+            "userRoleTable": "users",
+            "roleTableNameColumn": "name",
+            "userRoleTableRoleColumn": "role_id",
+            "userRoleTableUserColumn": "id"
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "3d57ce52-69ce-40aa-918d-c6f70270e9c9",
+        "name": "Supabase",
+        "designId": "0e49b376-70bf-4921-b852-76d0df281265",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyZnZlaGJtZHdsdWJlaGxibW5tIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY1NTQ4OTcsImV4cCI6MjAzMjEzMDg5N30.BG-5-szSdxAUYBSx1oyCchxz6hRmmcQqsWuo9hCXI98",
+            "projectUrl": "https://srfvehbmdwlubehlbmnm.supabase.co",
+            "customDomain": "",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyZnZlaGJtZHdsdWJlaGxibW5tIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY1NTQ4OTcsImV4cCI6MjAzMjEzMDg5N30.BG-5-szSdxAUYBSx1oyCchxz6hRmmcQqsWuo9hCXI98",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://srfvehbmdwlubehlbmnm.supabase.co",
+                    "customDomain": "",
+                    "baseProjectRef": "srfvehbmdwlubehlbmnm"
+                }
+            },
+            "realtimeTables": {}
+        }
+    }
+}
